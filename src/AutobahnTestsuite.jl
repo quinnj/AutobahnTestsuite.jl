@@ -1,4 +1,4 @@
-module Example
+module AutobahnTestsuite
 export hello, domath
 
 """
