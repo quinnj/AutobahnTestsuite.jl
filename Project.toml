@@ -1,5 +1,5 @@
-name = "Example"
-uuid = "7876af07-990d-54b4-ab0e-23690620f79a"
+name = "AutobahnTestsuite"
+uuid = "5b74dd93-9368-49df-9cc3-e90e9b77bc1e"
 version = "1.0.0"
 
 [compat]
